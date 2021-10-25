@@ -44,6 +44,17 @@ Winter 2020: Method of Analysis
 
 Spring 2020: Vector Calculus 2
 
+### Invited Talks
+
+1. Seminar on quantum topology, University of California, Santa Barbara, Fall 2018.
+
+2. FRG seminar (Online), Louisiana State University, September 25, 2020.
+
+3. Geometry and Topology Conference (Online), Soochow, China, November 5-7, 2021. (in the future)
+
+4. JMM session on Hopf Algebras and Tensor Categories, Seattle, January 6, 2022. (in the future)
+
+5. Caltech GT Seminar (Online), California Institute of Technology, Winter 2022. (in the future)
 
 
 
