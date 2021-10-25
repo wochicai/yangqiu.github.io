@@ -28,21 +28,21 @@ Low dimensional topology, topological quantum field theory, knot theory.
 
 University of California, Santa Barbara, teaching assistant:
 
-Fall 2017: Linear Algebra
+1. Fall 2017: Linear Algebra
 
-Winter 2018: Linear Algebra
+2. Winter 2018: Linear Algebra
 
-Spring 2018: Linear Algebra
+3. Spring 2018: Linear Algebra
 
-Fall 2018: Differential Equations
+4. Fall 2018: Differential Equations
 
-Winter 2019: Vector Calculus 1
+5. Winter 2019: Vector Calculus 1
 
-Fall 2019: Differential Equations
+6. Fall 2019: Differential Equations
 
-Winter 2020: Method of Analysis
+7. Winter 2020: Method of Analysis
 
-Spring 2020: Vector Calculus 2
+8. Spring 2020: Vector Calculus 2
 
 ### Invited Talks
 
