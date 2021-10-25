@@ -1,4 +1,4 @@
-## Yang Qiu
+### Personal
 
 I am a fifth-year graduate student in the department of mathematics at the University of California, Santa Barbara.
 
