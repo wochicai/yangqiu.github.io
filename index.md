@@ -10,9 +10,9 @@ Low dimensional topology, topological quantum field theory, knot theory.
 
 ### Preprints
 
-1. From Torus Bundles to Particle-Hole Equivariantization (with Shawn Xingshan Cui, Paul Gustafson, and Qing Zhang), [arXiv: 2106.01959](https://arxiv.org/abs/2106.01959), 2021. (Submitted)
+1. From Three Dimensional Manifolds to Modular Tensor Categories (with Shawn Xingshan Cui and Zhenghan Wang), [arXiv: 2101.01674](https://arxiv.org/abs/2101.01674), 2021. (Submitted)
 
-2. From Three Dimensional Manifolds to Modular Tensor Categories (with Shawn Xingshan Cui and Zhenghan Wang), [arXiv: 2101.01674](https://arxiv.org/abs/2101.01674), 2021. (Submitted)
+2. From Torus Bundles to Particle-Hole Equivariantization (with Shawn Xingshan Cui, Paul Gustafson, and Qing Zhang), [arXiv: 2106.01959](https://arxiv.org/abs/2106.01959), 2021. (Submitted)
 
 
 
