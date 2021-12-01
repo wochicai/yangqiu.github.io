@@ -1,6 +1,6 @@
 ### Personal
 
-I am currently a fifth-year graduate student in the department of mathematics at the [University of California, Santa Barbara](https://www.math.ucsb.edu/). My advisor is [Zhenghan Wang](https://web.math.ucsb.edu/~zhenghwa/). I received my B.Sc. from Fudan Univeristy in 2014 and studied as a graduate student at Peking University from 2014 to 2017.   
+I am currently a fifth-year graduate student in the department of mathematics at the University of California, Santa Barbara. My advisor is [Zhenghan Wang](https://web.math.ucsb.edu/~zhenghwa/). I received my B.Sc. from Fudan Univeristy in 2014 and studied as a graduate student at Peking University from 2014 to 2017.   
 
 Email: yangqiu@math.ucsb.edu
 
