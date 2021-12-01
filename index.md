@@ -48,11 +48,13 @@ University of California, Santa Barbara, teaching assistant:
 
 2. FRG seminar (Online), Louisiana State University, September 25, 2020.
 
-3. Geometry and Topology Conference (Online), Soochow, China, November 5-7, 2021. (in the future)
+3. Geometry and Topology Conference (Online), Soochow, China, November 6, 2021. 
 
 4. JMM session on Hopf Algebras and Tensor Categories, Seattle, January 6, 2022. (in the future)
 
-5. Caltech GT Seminar (Online), California Institute of Technology, Winter 2022. (in the future)
+5. Caltech GT Seminar (Online), California Institute of Technology, January 21, 2022. (in the future)
+
+6. AMS Sectional meeting on quantum algebra and quantum topology, Purdue University, March 26-27, 2022. (in the future)
 
 
 
